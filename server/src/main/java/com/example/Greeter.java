@@ -4,6 +4,9 @@ package com.example;
  * This is a class.
  */
 public class Greeter {
+	
+	private String var1;
+	private String var2;
 
   /**
    * This is a constructor.
